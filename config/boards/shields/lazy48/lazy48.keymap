@@ -27,6 +27,7 @@
                 &none   &BT_CLR  &none   &none   &none   &none   &none   &kp N4   &kp N5   &kp N6   &none   &none
                 &none   &none   &none   &none   &none   &none   &none   &kp N1   &kp N2   &kp N3   &none   &none
                 &none   &none   &none   &none   &none   &none   &none   &kp N0   &none   &kp DOT   &none   &none
+            >;
         };
     };
 };
