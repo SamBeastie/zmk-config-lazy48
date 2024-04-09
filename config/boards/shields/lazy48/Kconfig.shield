@@ -1,2 +1,2 @@
 config SHIELD_LAZY48
-    def_bool $(shiels_list_contains, lazy48
+    def_bool $(shiels_list_contains, lazy48)
