@@ -1,5 +1,0 @@
-if SHIELD_LAZY48
-
-config ZMK_KEYBOARD_NAME
-    default "lazy48"
-endif
